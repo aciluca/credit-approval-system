@@ -146,3 +146,7 @@ The model is compiled with the `Adam` optimizer and the `binary_crossentropy` lo
 ## Author
 
 - **Luca Acerbi** - [aciluca](https://github.com/aciluca)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
