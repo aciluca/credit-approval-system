@@ -2,6 +2,7 @@
 
 # Credit Card Approval Prediction System
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project implements a machine learning system to predict the approval of credit card applications. The application uses a neural network built with TensorFlow and Keras, is written in Python with an Object-Oriented Programming (OOP) approach, and can be run both locally and through a Docker container.
 
 ## Table of Contents
