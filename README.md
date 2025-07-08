@@ -21,7 +21,7 @@ This project implements a machine learning system to predict the approval of cre
 
 ## Project Goal
 
-Banks receive numerous credit card applications, and他们的 manual evaluation is a slow and error-prone process. This project automates the approval process by building a predictive model that analyzes applicant data to determine the likelihood of approval.
+Banks receive numerous credit card applications, and manual evaluation is a slow and error-prone process. This project automates the approval process by building a predictive model that analyzes applicant data to determine the likelihood of approval.
 
 ## Technologies Used
 
