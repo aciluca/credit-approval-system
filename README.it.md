@@ -1,6 +1,7 @@
 [Read in English](README.md)
 
 # Sistema di predizione per carte di credito
+[![Licenza: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Questo progetto implementa un sistema di machine learning per prevedere l'approvazione delle richieste di carte di credito. L'applicazione utilizza una rete neurale costruita con TensorFlow e Keras, è scritta in Python con un approccio orientato agli oggetti (OOP) e può essere eseguita sia localmente che tramite un container Docker.
 
