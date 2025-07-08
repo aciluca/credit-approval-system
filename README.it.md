@@ -145,3 +145,7 @@ Il modello viene compilato con l'ottimizzatore `Adam` e la funzione di loss `bin
 ## Autore
 
 - **Luca Acerbi** - [aciluca](https://github.com/aciluca)
+
+## Licenza
+
+Questo progetto è distribuito con licenza MIT. Per maggiori dettagli, vedere il file [LICENSE](LICENSE).
